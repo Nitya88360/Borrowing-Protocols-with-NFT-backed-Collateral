@@ -5,6 +5,8 @@ The NFT Collateral Borrowing protocol enables borrowers to use their NFTs as col
 
 ## Contract Address
 0x4F2B1f70cB12b604771CEE7450AeEe14b940F733
+![image](https://github.com/user-attachments/assets/4c986618-4095-43a1-9304-1a35768578d4)
+
 
 ## Project Vision
 The project aims to bridge the gap between NFT ownership and decentralized finance (DeFi), allowing NFT holders to unlock the value of their digital assets without selling them. This fosters a more liquid and interactive NFT ecosystem while benefiting both borrowers and lenders.
